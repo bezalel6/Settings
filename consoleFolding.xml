@@ -1,0 +1,14 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="ㅤ" />
+      </list>
+    </option>
+    <option name="removedPositive">
+      <list>
+        <option value="at com.intellij.testFramework.EdtTestUtil" />
+      </list>
+    </option>
+  </component>
+</application>
