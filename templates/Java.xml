@@ -1,0 +1,3 @@
+<templateSet group="Java">
+  <template name="nwin" value="new JFrame(){{&#10;setSize(500,500);&#10;&#10;&#10;setVisible(true);&#10;}};" description="Create a new Testing JFrame" toReformat="false" toShortenFQNames="true" />
+</templateSet>
