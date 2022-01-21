@@ -1,10 +1,5 @@
 <templateSet group="user">
-  <template name="loopB" value="for (Piece[] row : board) {&#10;    for (Piece piece : row) {&#10;        if (piece != null) {&#10;        }&#10;    }&#10;}" description="loop through board" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
-  <template name="loopS" value="for (Square[] row : board) {&#10;    for (Square square : row) {&#10;        if (!square.isEmpty()) {&#10;        }&#10;    }&#10;}" description="loop through squares" toReformat="false" toShortenFQNames="true">
+  <template name="nwin" value="new JFrame() {{&#10;            setSize(500, 500);&#10;            &#10;            setVisible(true);&#10;        }};" description="Creates a New Testings JFrame" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
