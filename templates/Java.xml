@@ -1,3 +1,8 @@
 <templateSet group="Java">
   <template name="nwin" value="new JFrame(){{&#10;setSize(500,500);&#10;&#10;&#10;setVisible(true);&#10;}};" description="Create a new Testing JFrame" toReformat="false" toShortenFQNames="true" />
+  <template name="bbldr" value="StringBuilder bldr = new StringBuilder();" description="Create a String Builder" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
