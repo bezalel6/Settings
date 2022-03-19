@@ -12,5 +12,6 @@
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
     <pattern pattern="\baskIlan\b.*" />
+    <pattern pattern="\btooptimize\b.*" />
   </component>
 </application>
