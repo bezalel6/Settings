@@ -13,5 +13,6 @@
     <pattern pattern="\bfixme\b.*" />
     <pattern pattern="\baskIlan\b.*" />
     <pattern pattern="\btooptimize\b.*" />
+    <pattern pattern="\btouncomment\b.*" />
   </component>
 </application>
