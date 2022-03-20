@@ -14,5 +14,6 @@
     <pattern pattern="\baskIlan\b.*" />
     <pattern pattern="\btooptimize\b.*" />
     <pattern pattern="\btouncomment\b.*" />
+    <pattern icon="important" pattern="\bew\b.*" />
   </component>
 </application>
