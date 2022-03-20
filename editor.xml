@@ -14,6 +14,9 @@
     <pattern pattern="\baskIlan\b.*" />
     <pattern pattern="\btooptimize\b.*" />
     <pattern pattern="\btouncomment\b.*" />
-    <pattern icon="important" pattern="\bew\b.*" />
+    <pattern icon="important" useCustomColors="true" pattern="\bew\b.*">
+      <option name="FOREGROUND" value="ff0027" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
   </component>
 </application>
