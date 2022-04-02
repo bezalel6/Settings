@@ -18,5 +18,6 @@
       <option name="FOREGROUND" value="ff0027" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
+    <pattern pattern="\btosync\b.*" />
   </component>
 </application>
