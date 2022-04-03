@@ -87,7 +87,9 @@
     <option name="SHOW_THREAD_GROUPS" value="true" />
   </component>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <option name="showLibraryStackFrames" value="false" />
+    </data-views>
     <general />
   </component>
 </application>
